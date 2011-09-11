@@ -1,0 +1,7 @@
+Original project located at http://craigsworks.com/projects/qtip/
+
+GitHub repo created due to the fact that the project's homepage
+does not provide a download url for specific versions. This repo
+can be used in automated build scripts to achieve reproducable
+results with regards to the qTip version installed.
+
